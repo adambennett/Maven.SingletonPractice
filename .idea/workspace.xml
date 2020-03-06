@@ -48,7 +48,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SingletonTest.freebie">
     <configuration name="SingletonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SingletonPractice" />
       <extension name="coverage">
@@ -64,8 +64,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingletonTest.freebie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven.SingletonPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zipcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zipcoder" />
+      <option name="MAIN_CLASS_NAME" value="zipcoder.SingletonTest" />
+      <option name="METHOD_NAME" value="freebie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SingletonTest.freebie" />
         <item itemvalue="JUnit.SingletonTest" />
       </list>
     </recent_temporary>
