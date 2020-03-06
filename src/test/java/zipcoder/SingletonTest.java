@@ -40,5 +40,11 @@ public class SingletonTest {
         Assert.assertEquals("Adam's Singleton Lab", outContent.toString().trim());
     }
 
+    @Test
+    public void freebie() {
+        System.out.println("Adam's Singleton Lab");
+        Assert.assertEquals("Adam's Singleton Lab", outContent.toString().trim());
+    }
+
 
 }
