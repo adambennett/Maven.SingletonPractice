@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb3311a1-c6e8-46b5-983a-fddae6982333" name="Default Changelist" comment="" />
+    <list default="true" id="bb3311a1-c6e8-46b5-983a-fddae6982333" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/zipcoder/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zipcoder/Singleton.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +109,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed unused import" />
+    <MESSAGE value="added freebie test" />
+    <option name="LAST_COMMIT_MESSAGE" value="added freebie test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Project_Structure" timestamp="1583472086753">

@@ -7,7 +7,7 @@ public final class Singleton {
         @param Functional function
      */
 
-    public static void r(String message) {
+    public void r(String message) {
 
     }
 
