@@ -1,7 +1,5 @@
 package zipcoder;
 
-import zipcoder.interfaces.Functional;
-
 public final class Singleton {
 
     /*
