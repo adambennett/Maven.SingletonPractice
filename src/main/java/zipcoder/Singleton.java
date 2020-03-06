@@ -11,7 +11,7 @@ public final class Singleton {
 
     public static Singleton getInstance() { return instance; }
 
-    public static void r(String message) {
+    public void r(String message) {
         functional.p(message);
     }
 
