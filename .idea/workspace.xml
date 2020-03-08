@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb3311a1-c6e8-46b5-983a-fddae6982333" name="Default Changelist" comment="">
+    <list default="true" id="bb3311a1-c6e8-46b5-983a-fddae6982333" name="Default Changelist" comment="added another test">
       <change beforePath="$PROJECT_DIR$/src/main/java/zipcoder/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zipcoder/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/zipcoder/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/zipcoder/SingletonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="solution" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
