@@ -1,4 +1,6 @@
 package zipcoder.interfaces;
 
 @FunctionalInterface
-public interface Functional {}
+public interface Functional {
+
+}
